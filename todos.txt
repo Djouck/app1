@@ -1,4 +1,3 @@
 Study Hanbook
 Study Python with Udemy
-Buy Milk
-Buy a book
+Study PM with Coursera
