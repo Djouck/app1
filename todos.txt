@@ -1,9 +1,4 @@
-Clean the bag.
-Meet DG.
-Study Python.
-Greet Granma.
-
-Buy groceriesBuy milkBuy 1
-Buy 2
-Buy 3
-
+Study Hanbook
+Study Python with Udemy
+Buy Milk
+Buy a book
